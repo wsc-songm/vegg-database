@@ -1,0 +1,24 @@
+{
+    "Name":"French Toast",
+    "Ingredients":[
+        "0.5 cups milk",
+        "3 eggs",
+        "0.5 teaspoons cinammon",
+        "6 to 8 thick slices of diagonally cut bread",
+        "1 tablespoon of vegetable oil",
+        "A knob of butter",
+        "Icing sugar and maple syrup to top",
+        "Optional: fried bacon and sliced bananas"],
+    "Tools":[
+        "Shallow dish",
+        "Large frying pan",
+        "Paper towels"],
+    "cooktimeMin":10,
+    "Servings":4,
+    "Description":"A delicious french toast that can be drizzle in you toppping of choice.",
+    "Directions":[
+        "Beat the milk, eggs and cinnamon until combined. Pour into a shallow dish and dip the bread slices in, making sure both sides are coated.",
+        "In a large frying pan, heat vegetable oil and butter until sizzling over medium heat, fry the bread both sides until golden brown. Drain on a paper towel, keep warm in the oven while you make the rest.",
+        "To serve: Dust with icing sugar and drizzle with maple syrup.",
+        "Optional: Garnish with crispy bacon and sliced bananas or fruit of your choice."]
+}
